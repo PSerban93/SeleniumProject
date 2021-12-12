@@ -1,5 +1,5 @@
 #exclude form git
+/target
 .idea
 *.iml
-# Project exclude paths
-/target/
+
